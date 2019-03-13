@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{geiger2013vision}
+Andreas Geiger, Philip Lenz, Christoph Stiller, and Raquel Urtasun.
+\newblock Vision meets robotics: The kitti dataset.
+\newblock {\em The International Journal of Robotics Research},
+  32(11):1231--1237, 2013.
+
+\bibitem{fumagalli2012modeling}
+Binbin Li, Dezhen Song, Haifeng Li, Adam Pike, and Paul Carlson.
+\newblock Lane marking quality assessment for autonomous driving.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, {Madrid, Spain, October, 1-5}, 2018.
+
+\bibitem{zhao2017icnet}
+Hengshuang Zhao, Xiaojuan Qi, Xiaoyong Shen, Jianping Shi, and Jiaya Jia.
+\newblock Icnet for real-time semantic segmentation on high-resolution images.
+\newblock {\em arXiv preprint arXiv:1704.08545}, 2017.
+
+\bibitem{kapoulkine2012pugixml}
+Arseny Kapoulkine.
+\newblock pugixml: Light-weight, simple and fast xml parser for c++ with xpath
+  support, 2012.
+
+\bibitem{von2012lsd}
+Rafael~Grompone Von~Gioi, J{\'e}r{\'e}mie Jakubowicz, Jean-Michel Morel, and
+  Gregory Randall.
+\newblock Lsd: a line segment detector.
+\newblock {\em Image Processing On Line}, 2:35--55, 2012.
+
+\bibitem{magri2014t}
+Luca Magri and Andrea Fusiello.
+\newblock T-linkage: A continuous relaxation of j-linkage for multi-model
+  fitting.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 3954--3961, 2014.
+
+\end{thebibliography}
